@@ -1,8 +1,8 @@
 """
 Implementação do Algoritmo Genético (AG) conforme teoria apresentada nas aulas 
-Material de referência: IA_Algoritmos_Genéticos_2020-1-Alterado_04-05-2020.pptx
+Material de referência: IA_Algoritmos_Genéticos_2020-1-Alterado_20-10-2021.pptx
 Autor: Sidnei Alves de Araújo 
-Data: 08/05/2020
+Data: 01/11/2021
 Disciplina: Inteligência Artificial
 """
 """
